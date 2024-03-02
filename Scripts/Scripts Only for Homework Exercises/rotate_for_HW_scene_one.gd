@@ -15,3 +15,7 @@ func _process(delta):
 	pass
 
 
+
+
+func _on_button_pressed():
+	_rotate_me()
